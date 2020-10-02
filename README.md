@@ -11,10 +11,13 @@ Keywords : checking the quality of the lens / polarization / image processing / 
 <!-- ![alt text][IM_default] -->
 ### before polarization ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/Default_resize.png" width ="300" height="300">
+<img src ="https://github.com/pection//Lenquality-MachineLearning/blob/master/static/Image/example/Default_resize.png" width ="300" height="300">
 
 ### after polarization ###
 
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/BadLine_12.JPG" width ="300" height="300">
+<img src ="https://github.com/pection//Lenquality-MachineLearning/blob/master/static/Image/example/BadLine_12.JPG" width ="300" height="300">
 zoom
-<img src ="https://github.com/pection/aboutme/blob/master/Len-Quality-Checking-Using-Machine-Learning/static/Image/example/BadLine_12_Example.jpg" width ="300" height="300">
+<img src ="https://github.com/pection//Lenquality-MachineLearning/blob/master/static/Image/example/BadLine_12_Example.jpg" width ="300" height="300">
+Checking Quality from MachineLearning
+<img src ="https://github.com/pection//Lenquality-MachineLearning/blob/master/static/Image/example/Bad1.jpg" width ="300" height="300">
+<img src ="https://github.com/pection//Lenquality-MachineLearning/blob/master/static/Image/example/Good1.jpg" width ="300" height="300">
