@@ -20,7 +20,9 @@ zoom
 
 ### Checking Quality from MachineLearning ###
 
-<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Bad1.jpg" width ="300" height="300">
-<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Good1.jpg" width ="300" height="300">
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Bad1.png" width ="300" height="300">
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Good1.png" width ="300" height="300">
+
 Graph
-<img src "https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Lateset.png" width="300" height="300">
+
+<img src "https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Latest.png" width="300" height="300">
