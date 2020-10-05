@@ -8,7 +8,6 @@
 * This method can be applied to check the quality of lens in manufacturing automation in the future
 Keywords : checking the quality of the lens / polarization / image processing / machine learning
 
-<!-- ![alt text][IM_default] -->
 ### before polarization ###
 
 <img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Default_resize.png" width ="300" height="300">
@@ -21,3 +20,5 @@ zoom
 Checking Quality from MachineLearning
 <img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Bad1.jpg" width ="300" height="300">
 <img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Image/example/Good1.jpg" width ="300" height="300">
+Graph
+<img src "https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Lateset.png" width="300" height="300">
