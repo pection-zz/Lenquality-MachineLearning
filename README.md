@@ -25,4 +25,4 @@ zoom
 
 Graph
 
-<img src "https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Latest.png" width="300" height="300">
+<img src ="https://github.com/pection/Lenquality-MachineLearning/blob/master/static/Graph/Graph/Latest.png" width ="300" height="300">
