@@ -56,7 +56,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/pection/Programing/aboutme/Len-QualityChecking-Using-Machine-Learning/env"
+set -gx VIRTUAL_ENV "/Users/pection/Programing/Len-QualityChecking-Using-Machine-Learning/env"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3

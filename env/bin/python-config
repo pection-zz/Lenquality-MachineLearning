@@ -1,4 +1,4 @@
-#!/Users/pection/Programing/aboutme/Len-QualityChecking-Using-Machine-Learning/env/bin/python
+#!/Users/pection/Programing/Len-QualityChecking-Using-Machine-Learning/env/bin/python
 
 import sys
 import getopt
